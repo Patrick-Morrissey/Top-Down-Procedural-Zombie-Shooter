@@ -1,0 +1,196 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CA2 - Modified Zombie.vcxproj, SFML-7-Zombie-Levelling-Up.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  ActionPickup.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\ActionPickup.cpp(14,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  AmmoPickup.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\AmmoPickup.cpp(34,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Bloater.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Bloater.cpp(18,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Bullet.cpp
+  Chaser.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Chaser.cpp(18,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  Crawler.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Crawler.cpp(18,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  CreateBackground.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,64): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,64): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,64): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,64): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,49): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,49): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,49): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,49): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(74,49): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,78): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,78): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,78): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,78): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,78): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,63): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,63): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,63): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(75,63): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,92): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,92): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,92): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,92): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,92): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,63): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,63): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,63): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(76,63): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,80): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,80): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,80): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,80): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,50): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,50): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,50): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(77,50): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(110,54): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(110,54): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(110,54): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(110,54): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(110,54): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(111,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(111,62): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(111,62): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(111,62): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(111,62): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(112,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(112,70): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(112,70): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(112,70): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(112,70): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(113,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(113,62): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(113,62): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(113,62): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateBackground.cpp(113,62): warning C4244:         ]
+  CreateHorde.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(42,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(43,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(48,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(49,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(54,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(55,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(60,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\CreateHorde.cpp(61,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  GameActor.cpp
+  GameManager.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(22,46): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(22,46): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(22,46): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(22,46): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(22,46): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(23,46): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(23,46): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(23,46): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(23,46): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(23,46): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,56): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,56): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,56): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,56): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,40): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,40): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,40): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,40): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(26,40): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(268,21): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(268,21): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(268,21): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(268,21): warning C4244:             T=int
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(268,21): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(269,22): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(269,22): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(269,22): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(269,22): warning C4244:             T=int
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(269,22): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(471,41): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(471,41): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(471,41): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(471,41): warning C4244:             T=int
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(471,41): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(472,43): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(472,43): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(472,43): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(472,43): warning C4244:             T=int
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(472,43): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(479,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(483,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(803,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(830,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(830,53): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(830,53): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(830,53): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\GameManager.cpp(830,53): warning C4244:         ]
+  GridTileMapFunctions.cpp
+  HealthPickup.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\HealthPickup.cpp(34,33): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  InfectedCrow.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\InfectedCrow.cpp(18,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+  NukePickup.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\NukePickup.cpp(34,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Pickup.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Pickup.cpp(26,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  Player.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(12,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(13,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(28,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(29,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(40,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(40,29): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(40,29): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(40,29): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(40,29): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(41,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(41,30): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(41,30): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(41,30): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(41,30): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(46,15): warning C4101: 'newY': unreferenced local variable
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(46,9): warning C4101: 'newX': unreferenced local variable
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(242,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(242,32): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(242,32): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(242,32): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(242,32): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(247,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(247,31): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(247,31): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(247,31): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(247,31): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(252,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(252,33): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(252,33): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(252,33): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(252,33): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(257,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(257,30): warning C4244:         with
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(257,30): warning C4244:         [
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(257,30): warning C4244:             T=float
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(257,30): warning C4244:         ]
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(265,6): warning C4551: function call missing argument list
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(280,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(290,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Player.cpp(296,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  RevolverPickup.cpp
+  StatPickup.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\StatPickup.cpp(28,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\StatPickup.cpp(28,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\StatPickup.cpp(31,20): warning C4244: '=': conversion from 'const int' to 'float', possible loss of data
+  TextureHolder.cpp
+  Zombie.cpp
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Zombie.cpp(26,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\CA2-K00218348-Patrick Morrissey\code\Zombie.cpp(130,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  ZombieArena.cpp
+  Generating Code...
+  CA2-K00218348-Patrick Morrissey.vcxproj -> C:\Backup\Top-Down-Procedural-Zombie-Shooter\CA2-K00218348-Patrick Morrissey\x64\Debug\CA2-K00218348-Patrick Morrissey.exe

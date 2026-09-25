@@ -1,0 +1,51 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML-7-Zombie-Levelling-Up.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  GameManager.cpp
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(22,46): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(22,46): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(22,46): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(22,46): warning C4244:             T=float
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(22,46): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(23,46): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(23,46): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(23,46): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(23,46): warning C4244:             T=float
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(23,46): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,56): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,56): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,56): warning C4244:             T=float
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,56): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,40): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,40): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,40): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,40): warning C4244:             T=float
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(26,40): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(268,21): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(268,21): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(268,21): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(268,21): warning C4244:             T=int
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(268,21): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(269,22): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(269,22): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(269,22): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(269,22): warning C4244:             T=int
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(269,22): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(471,41): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(471,41): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(471,41): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(471,41): warning C4244:             T=int
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(471,41): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(472,43): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(472,43): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(472,43): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(472,43): warning C4244:             T=int
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(472,43): warning C4244:         ]
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(479,46): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(483,61): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(802,51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(829,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(829,51): warning C4244:         with
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(829,51): warning C4244:         [
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(829,51): warning C4244:             T=float
+C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\CA2 - Modified Zombie\code\GameManager.cpp(829,51): warning C4244:         ]
+  CA2 - Modified Zombie.vcxproj -> C:\gpp\code\Assignments\GPP-CA2-K00218348-Patrick Morrissey\CA2 - Modified Zombie\x64\Debug\CA2 - Modified Zombie.exe

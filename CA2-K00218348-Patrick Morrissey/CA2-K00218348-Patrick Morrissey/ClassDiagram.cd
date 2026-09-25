@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Bullet">
+    <Position X="12" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAEAGgAIAIAAAAAAAQgAAAgUAAAAAAAEQQUAAA=</HashCode>
+      <FileName>code\Bullet.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameActor">
+    <Position X="18.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAIEAAACAgAAAAABAAgQAgAQAAAiAAIAAEAAAAAgA=</HashCode>
+      <FileName>code\GameActor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameManager">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="GameManager::State" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>code\GameManager.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>TIYAQEiBMIAJqCJI4gYgVAghSCyIXGaEGIImEQx+SFI=</HashCode>
+      <FileName>code\GameManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="22.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAZABQAAAggAIwAAAAAARAEAAAAAAQAAAGUAlAAM=</HashCode>
+      <FileName>code\Player.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextureHolder">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAAg=</HashCode>
+      <FileName>code\TextureHolder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ActionPickup">
+    <Position X="1.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAABIAAIAAAAAxAAAAAEAIA=</HashCode>
+      <FileName>code\ActionPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AmmoPickup">
+    <Position X="6.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAIAAAAAAAAABIAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>code\AmmoPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HealthPickup">
+    <Position X="8.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAABIAAAAAAEAAAAAAAEAAA=</HashCode>
+      <FileName>code\HealthPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NukePickup">
+    <Position X="2.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAABIAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>code\NukePickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pickup">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAIAABAAAAACQIABAAACAjICQAAAAAAAAAAAAEAIA=</HashCode>
+      <FileName>code\Pickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RevolverPickup">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAABIAAAAEAAAAAAAAAEAAA=</HashCode>
+      <FileName>code\RevolverPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatPickup">
+    <Position X="7.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAABIAAIAAAAAQAAAAAEAKA=</HashCode>
+      <FileName>code\StatPickup.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bloater">
+    <Position X="14.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAABAAAAAAAAEAAAAAAAAAg=</HashCode>
+      <FileName>code\Bloater.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chaser">
+    <Position X="17.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAgAAAAAAAAAAABAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>code\Chaser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Crawler">
+    <Position X="20" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAABAAAQAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>code\Crawler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InfectedCrow">
+    <Position X="11.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAABAAAAAAgAAAAAAAAIAAA=</HashCode>
+      <FileName>code\InfectedCrow.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zombie">
+    <Position X="15" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAkAAAAgAAAAAABAABAAAAAAACAACQgAEEAAA=</HashCode>
+      <FileName>code\Zombie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

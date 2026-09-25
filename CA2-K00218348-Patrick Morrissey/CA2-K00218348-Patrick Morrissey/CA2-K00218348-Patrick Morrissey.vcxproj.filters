@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Pickups">
+      <UniqueIdentifier>{89457247-39ec-4243-9800-26f7ed29fad7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Zombies">
+      <UniqueIdentifier>{d4c37b2b-f4e2-4e35-ac3f-557ee5477b7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Pickups">
+      <UniqueIdentifier>{4c9ee9ce-1213-4622-884b-2e09ce381d12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Zombies">
+      <UniqueIdentifier>{40e58a39-a155-4556-8d2a-6b7db42f30e0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="code\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\GameActor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\GameManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\TextureHolder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\ZombieArena.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="code\ActionPickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="code\AmmoPickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="code\RevolverPickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="code\StatPickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Pickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Bloater.h">
+      <Filter>Header Files\Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Chaser.h">
+      <Filter>Header Files\Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Crawler.h">
+      <Filter>Header Files\Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="code\InfectedCrow.h">
+      <Filter>Header Files\Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="code\Zombie.h">
+      <Filter>Header Files\Zombies</Filter>
+    </ClInclude>
+    <ClInclude Include="code\NukePickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+    <ClInclude Include="code\HealthPickup.h">
+      <Filter>Header Files\Pickups</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="code\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\CreateBackground.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\CreateHorde.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\GameActor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\GameManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\GridTileMapFunctions.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\TextureHolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\ZombieArena.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="code\ActionPickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\AmmoPickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\NukePickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\RevolverPickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\StatPickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\HealthPickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Pickup.cpp">
+      <Filter>Source Files\Pickups</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Bloater.cpp">
+      <Filter>Source Files\Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Chaser.cpp">
+      <Filter>Source Files\Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Crawler.cpp">
+      <Filter>Source Files\Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="code\InfectedCrow.cpp">
+      <Filter>Source Files\Zombies</Filter>
+    </ClCompile>
+    <ClCompile Include="code\Zombie.cpp">
+      <Filter>Source Files\Zombies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

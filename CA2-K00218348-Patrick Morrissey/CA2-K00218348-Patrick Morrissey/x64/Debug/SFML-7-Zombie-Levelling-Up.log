@@ -1,0 +1,27 @@
+﻿  ZombieArena.cpp
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(29,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(29,44): warning C4244:         with
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(29,44): warning C4244:         [
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(29,44): warning C4244:             T=float
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(29,44): warning C4244:         ]
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(30,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(30,44): warning C4244:         with
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(30,44): warning C4244:         [
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(30,44): warning C4244:             T=float
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(30,44): warning C4244:         ]
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,56): warning C4244:         with
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,56): warning C4244:         [
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,56): warning C4244:             T=float
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,56): warning C4244:         ]
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,42): warning C4244:         with
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,42): warning C4244:         [
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,42): warning C4244:             T=float
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(32,42): warning C4244:         ]
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(625,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(625,50): warning C4244:         with
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(625,50): warning C4244:         [
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(625,50): warning C4244:             T=float
+C:\gpp\code\SFML-7-Zombie-Levelling-Up\SFML-7-Zombie-Levelling-Up\code\ZombieArena.cpp(625,50): warning C4244:         ]
+  SFML-7-Zombie-Levelling-Up.vcxproj -> C:\gpp\code\SFML-7-Zombie-Levelling-Up\x64\Debug\SFML-7-Zombie-Levelling-Up.exe
