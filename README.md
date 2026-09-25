@@ -44,10 +44,10 @@ This project helped me develop my skills in:
 - Debugging and improving an existing game
 
 ## How to Run
-1. Download or clone this repository.
-Open the project in the required C++ development environment.
-Build the project.
-Run the application.
-Survive the zombie waves and use the available power-ups to stay alive.
+1. Download or clone this repository or download the Build zip from [Itch.io](https://patrickm398.itch.io/the-walking-dead-get-stuck-in-walls).
+1. Open the project in the required C++ development environment.
+1. Build the project.
+1. Run the application.
+
 
 The project was developed as part of my Game Play Programming module using C++ and SFML, and builds upon the Zombie game from Beginning C++ Game Programming.
