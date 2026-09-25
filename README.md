@@ -1,6 +1,6 @@
 ## Modified Zombie Survival Game
 
-The Modified Zombie Survival Game is a C++ top-down wave-based zombie survival game based on the Zombie game from Beginning C++ Game Programming. The game was modified to add procedurally generated internal walls, grid-based collision detection, wall-aware zombie movement, new zombie types, and new power-ups.
+The Modified Zombie Survival Game is a C++ top-down wave-based zombie survival game based on the Zombie game from Beginning C++ Game Programming. The game was modified to add procedurally generated internal walls, grid-based collision detection, wall-aware zombie movement, new zombie types, and new power-ups. It was made in Visual Studio 2022. It was written in C++ and uses SFML.
 
 # Features
 # Zombie Survival
